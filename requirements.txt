@@ -11,3 +11,4 @@ langchain-unstructured
 langchain-chroma
 langchain-groq
 unstructured-inference
+python-3.11
